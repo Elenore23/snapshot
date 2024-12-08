@@ -22,7 +22,7 @@
   },
   "prettier": "@snapshot-labs/prettier-config",
   "dependencies": {
-    "@apollo/client": "^3.8.7",
+    "@apollo/client": "^3.10.8",
     "@braintree/sanitize-url": "^6.0.4",
     "@ensdomains/eth-ens-namehash": "^2.0.15",
     "@ethersproject/abi": "^5.7.0",
