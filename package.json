@@ -56,7 +56,7 @@
     "js-sha256": "^0.10.1",
     "jsonexport": "^3.2.0",
     "kubo-rpc-client": "^4.0.0",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "minisearch": "^6.2.0",
     "mixpanel-browser": "^2.48.1",
     "remarkable": "^2.0.1",
